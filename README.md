@@ -14,19 +14,22 @@ I approach problems creatively, adapt quickly, and care about work that has a re
 This repository is a collection of work from my time with the Frontera Leadership Institute (FLI) — a leadership program supporting
 first-generation college students in building their professional presence. I will soon be stepping into a new chapter as an  Area Manager at Amazon.
 
+Here you'll see stuff from my time working at Frontera and some stuff during my time in Product Prodigy.
+
 ---
 
 ## What's Here
 
 | Folder | Description |
 |--------|-------------|
-| `sprints/` | Sprint planning docs and deliverables |
+| `marketing/` | Sprint planning docs and deliverables |
 | `decks/` | Presentations and pitch materials |
-| `research/` | Notes, findings, and strategy docs |
+| `development/` | Notes, findings, and strategy docs |
 
 ---
 
 ## Let's Connect
 
 - 🔗 www.linkedin.com/in/haleigh-nguyen
+- 🌐 www.peerpair.org
 - 🌐 [Portfolio Website](#) ← paste your URL
