@@ -22,7 +22,7 @@ Here you'll see stuff from my time working at Frontera and some stuff during my 
 
 | Folder | Description |
 |--------|-------------|
-| `marketing/` | Sprint planning docs and deliverables |
+| `marketing/` | Collateral and deliverables |
 | `decks/` | Presentations and pitch materials |
 | `development/` | Notes, findings, and strategy docs |
 
