@@ -28,5 +28,5 @@ first-generation college students in building their professional presence. I wil
 
 ## Let's Connect
 
-- 🔗 [LinkedIn](#) ← paste your URL
+- 🔗 www.linkedin.com/in/haleigh-nguyen
 - 🌐 [Portfolio Website](#) ← paste your URL
