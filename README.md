@@ -32,4 +32,4 @@ Here you'll see stuff from my time working at Frontera and some stuff during my 
 
 - 🔗 www.linkedin.com/in/haleigh-nguyen
 - 🌐 www.peerpair.org
-- 🌐 www.haleigh-nguyen.github.io
+- 🌐 https://haleigh-nguyen.github.io
